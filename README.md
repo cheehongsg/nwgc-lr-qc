@@ -1,8 +1,8 @@
 # Coverage
-Coverage computes basic coverage similar to picard CollectWgsMetrics but at the speed of mosdepth
+Coverage computes basic coverage similar to [picard](https://github.com/broadinstitute/picard) CollectWgsMetrics but at the speed of [mosdepth](https://github.com/brentp/mosdepth)
 
 ## htslib static library
-Coverage uses htslib static library for file parsing.
+Coverage uses [htslib](https://github.com/samtools/htslib) static library for file parsing.
 
 ```
 wget https://github.com/samtools/htslib/releases/download/1.19.1/htslib-1.19.1.tar.bz2
